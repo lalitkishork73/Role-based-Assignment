@@ -8,5 +8,5 @@ RUN npm ci
 
 COPY . .
 
-CMD ["node","start"]
+CMD ["npm","start"]
 
