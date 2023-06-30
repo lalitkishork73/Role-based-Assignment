@@ -104,6 +104,7 @@ dist
 .temp
 .cache
 .env
+build
 
 # Docusaurus cache and generated files
 .docusaurus
